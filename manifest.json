@@ -1,0 +1,10 @@
+{
+  "name": "ForwardJS Summit",
+  "short_name": "Forward",
+  "theme_color": "#2196f3",
+  "background_color": "#687b8b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
